@@ -6,6 +6,8 @@
 
  I used Accessibility Inspector.app and [UI Browser](https://pfiddlesoft.com/uibrowser/) to get the path to the button.
 
+ Thanks to [MacScripter.net](https://macscripter.net/viewtopic.php?id=45700) for the AppleScript tips.
+
 [Usage Steps Source: (Thanks lukad & MegaCookie on StackExchange)](https://apple.stackexchange.com/questions/175215/how-do-i-assign-a-keyboard-shortcut-to-an-applescript-i-wrote)
 
 ### Tested with 
