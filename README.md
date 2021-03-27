@@ -22,6 +22,6 @@ Haven't updated to Big Sur (11.xx) yet, so not sure if it works there.
     [Source: (Thanks lukad & MegaCookie on StackExchange)](https://apple.stackexchange.com/questions/175215/how-do-i-assign-a-keyboard-shortcut-to-an-applescript-i-wrote)
 
 ## Screenshots
-![Step 3]("Automator Quick Action Screenshot.png")
+![Step 3](https://github.com/cod3-jr/Mail.app-Load-Remote-Content/blob/%3D/resources/Automator%20Quick%20Action%20Screenshot.png)
 
-![Keyboard Shortcut]("resources/Keyboard Shortcut.png")
+![Keyboard Shortcut](https://github.com/cod3-jr/Mail.app-Load-Remote-Content/blob/%3D/resources/Keyboard%20Shortcut.png)
